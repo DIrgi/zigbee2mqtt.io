@@ -24,6 +24,8 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 ## Notes
+I bought them recently and they are marked from time to time being offline in my ZigBee2MQTT although for testing purposes they are still 
+just half meter away from the coordinator antenna. Other devices are conneted continuously.
 
 ### Pairing
 To start pairing, press the button (pinhole on the side of the device) using a
